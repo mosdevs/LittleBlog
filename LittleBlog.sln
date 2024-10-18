@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{E9151E68-7C97-49BE-A064-CF039DA5481C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{F1792536-C9B0-4F96-B349-C83C3676F0D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleBlog.UI.Razor", "LittleBlog.UI.Razor\LittleBlog.UI.Razor.csproj", "{F434C282-6E32-4EAF-A643-0F664C0B6737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F434C282-6E32-4EAF-A643-0F664C0B6737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F434C282-6E32-4EAF-A643-0F664C0B6737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F434C282-6E32-4EAF-A643-0F664C0B6737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F434C282-6E32-4EAF-A643-0F664C0B6737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F434C282-6E32-4EAF-A643-0F664C0B6737} = {F1792536-C9B0-4F96-B349-C83C3676F0D8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64180B8F-11A3-465C-B63F-20595C58604C}
+	EndGlobalSection
+EndGlobal
